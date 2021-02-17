@@ -1,7 +1,7 @@
-package com.game.snake_test.service;
+package com.game.rest_test.service;
 
-import com.game.snake_test.model.Post;
-import com.game.snake_test.repository.PostRepository;
+import com.game.rest_test.model.Post;
+import com.game.rest_test.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

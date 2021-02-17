@@ -1,4 +1,4 @@
-package com.game.snake_test;
+package com.game.rest_test;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

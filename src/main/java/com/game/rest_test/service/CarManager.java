@@ -1,8 +1,7 @@
-package com.game.snake_test.service;
+package com.game.rest_test.service;
 
-import com.game.snake_test.model.Car;
+import com.game.rest_test.model.Car;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.springframework.stereotype.Service;
 

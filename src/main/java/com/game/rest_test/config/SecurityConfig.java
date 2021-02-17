@@ -1,4 +1,4 @@
-package com.game.snake_test.security;
+package com.game.rest_test.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

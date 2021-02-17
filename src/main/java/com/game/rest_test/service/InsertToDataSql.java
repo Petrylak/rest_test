@@ -1,4 +1,4 @@
-package com.game.snake_test.service;
+package com.game.rest_test.service;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

@@ -1,6 +1,6 @@
-package com.game.snake_test.repository;
+package com.game.rest_test.repository;
 
-import com.game.snake_test.model.Post;
+import com.game.rest_test.model.Post;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

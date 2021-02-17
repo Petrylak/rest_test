@@ -1,4 +1,4 @@
-package com.game.snake_test.model;
+package com.game.rest_test.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,7 +1,7 @@
-package com.game.snake_test.controller;
+package com.game.rest_test.controller;
 
-import com.game.snake_test.model.Post;
-import com.game.snake_test.service.PostService;
+import com.game.rest_test.model.Post;
+import com.game.rest_test.service.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

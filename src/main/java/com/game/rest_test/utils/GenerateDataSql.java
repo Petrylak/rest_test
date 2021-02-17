@@ -1,6 +1,6 @@
-package com.game.snake_test.utils;
+package com.game.rest_test.utils;
 
-import com.game.snake_test.service.InsertToDataSql;
+import com.game.rest_test.service.InsertToDataSql;
 
 import java.io.FileNotFoundException;
 

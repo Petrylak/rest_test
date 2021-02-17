@@ -1,4 +1,4 @@
-package com.game.snake_test;
+package com.game.rest_test;
 
 
 

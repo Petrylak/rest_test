@@ -1,4 +1,4 @@
-package com.game.snake_test;
+package com.game.rest_test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
